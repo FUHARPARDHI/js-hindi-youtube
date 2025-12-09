@@ -10,5 +10,5 @@ let state;
  console.log(typeof "hitesh")
  console.log(typeof unefined)
  console.log(typeof null)
-
+console.log(typeof 33)
 
